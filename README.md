@@ -1,11 +1,11 @@
 # KURULUM
 
-# Kütüphanelerin yüklenmesi
+## Kütüphanelerin yüklenmesi
 `npm i` komutu ile gerekli kütüphaneleri yükleyim
 
-# Veritabanı Bağlantısı
+## Veritabanı Bağlantısı
 .env dosyası içerisinde bulunan MONGO_URI alanına kendi mongoDB bağlantı adresinizi yazın
 
-# Çalıştırma
+## Çalıştırma
 
 `npm run dev` komutu ile çalıştırabilirsiniz
