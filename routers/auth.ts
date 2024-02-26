@@ -4,6 +4,7 @@ import { checkEmailExists } from "../middlewares/database/databaseErrorHelpers";
 
 const router = express.Router();
 
+router.get("/", () => {res.send("Hello World")})
 router.post("/register", register);
 router.post(
   "/login",
